@@ -1,4 +1,4 @@
-# cars-hw
+# cars-hw: https://irynakrt.github.io/cars-hw/
 # Iryna Sittsava
 ## Student & future full-stack developer
 
@@ -10,5 +10,5 @@
 #### Of my strengths, I can single out perseverance and diligence - which allows me not to quit my studies, even when it is very difficult! I am also an open, active and very sociable person.
 #### I am ready to learn and learn new things, because I want to be useful!
 
-## About this project:
+## About [this][https://irynakrt.github.io/cars-hw/] project:
 #### This project was created by me during an intensive course at Itology-school! I am very glad that during this time I was able to strengthen my knowledge in layout and design, and also got acquainted with the Angular framework - a rather complex, but very useful development tool!
