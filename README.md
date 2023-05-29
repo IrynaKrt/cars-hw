@@ -1,4 +1,4 @@
-# cars-hw: https://irynakrt.github.io/cars-hw/
+# cars-hw: [link](https://irynakrt.github.io/cars-hw/)
 # Iryna Sittsava
 ## Student & future full-stack developer
 
